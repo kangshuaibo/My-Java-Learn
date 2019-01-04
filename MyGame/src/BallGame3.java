@@ -50,11 +50,6 @@ public class BallGame3 extends JFrame{
         }
     }
 
-
-
-
-
-
     //main方法是程序的入口
     public static void main(String[] args){
         System.out.println("ball游戏测试");
