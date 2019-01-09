@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89eef31c-fb69-4731-b420-0810633bc8dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App7_1/App7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App7_1/App7_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App7_2/App7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App7_2/App7_2.java" afterDir="false" />
-    </list>
+    <list default="true" id="89eef31c-fb69-4731-b420-0810633bc8dc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -212,7 +209,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546996921215" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546997918932" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -332,7 +329,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19759037" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19759037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
