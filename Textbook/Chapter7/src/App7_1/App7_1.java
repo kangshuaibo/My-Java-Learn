@@ -22,13 +22,15 @@ public class App7_1
         Cylinder volu;
         volu= new Cylinder();
         /*
-        //错误的
-        volu.radios = 2.8;
+
+        volu.radios = 2.8;   //没有通过公共方法 直接访问私有成员是错误的 radious和height赋值失败
         volu.height = -5;
-        //错误的
+
         System.out.println("底面半径="+volu.radios);
         System.out.println("圆柱的高="+volu.height);
         */
+
+        //输出
         System.out.print("圆柱");
         System.out.println("底面积="+volu.ares());
         System.out.println("体积="+volu.volume());

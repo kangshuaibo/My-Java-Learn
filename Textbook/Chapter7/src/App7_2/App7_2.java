@@ -8,7 +8,7 @@ class Cylinder
 
     public void setCylinder(double r,int h) //声明公共方法
     {
-        if(r>0 && h>0)
+        if(r>0 && h>0)  //防止错误输入
         {
             radious=r;
             height=h;
@@ -33,7 +33,9 @@ public class App7_2 //
     public static void main(String [] args)
     {
         Cylinder volu = new Cylinder();
-        volu.setCylinder(2.5,-5);   //不能直接访问 要通过公共方法访问私有变量
+        volu.setCylinder(2.5,-5);   //不能直接访问 要通过公共方法访问私有变量 赋值了radious和height
+
+        //输出
         System.out.println("圆柱底面积="+volu.area());
         System.out.println("圆柱体体积="+volu.volume());
     }
