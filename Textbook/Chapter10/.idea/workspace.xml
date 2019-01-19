@@ -170,7 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547815117419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547862469569" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -278,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547641874832</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chapter10over">
+      <created>1547862478445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547862478446</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -294,7 +301,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22168675" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22168675" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -315,7 +322,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chapter10" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter10" />
+    <MESSAGE value="chapter10over" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter10over" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/888.txt">
