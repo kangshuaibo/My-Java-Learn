@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/10_IO/in.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10_IO/src/com/kangshuaibo/demo01/BufferedStream/Demo05Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10_IO/我是GBK格式的文本.txt" charset="UTF-8" />
+  </component>
 </project>
