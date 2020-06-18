@@ -42,5 +42,6 @@ public class Demo03Test {
             return i+100;
         });
         System.out.println(num);
+        
     }
 }
