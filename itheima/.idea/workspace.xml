@@ -4,12 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo05/Consumer/Demo01Consumer.java" line="2" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e637393d-6c49-40d6-963b-f3ec756ef55e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_API/src/demo05/System/Dome01System.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_API/src/com/shuaibo/demo05/System/Dome01System.java" afterDir="false" />
-    </list>
+    <list default="true" id="e637393d-6c49-40d6-963b-f3ec756ef55e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +208,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="40" />
+    <option name="x" value="38" />
+    <option name="y" value="272" />
     <option name="width" value="1280" />
     <option name="height" value="731" />
   </component>
@@ -270,7 +266,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592465448399" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592465919309" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -407,7 +403,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="40" width="1280" height="731" extended-state="0" />
+    <frame x="0" y="577" width="1280" height="731" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18093699" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
