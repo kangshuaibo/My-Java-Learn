@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo05/Consumer/Demo01Consumer.java" line="2" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo05/Consumer/Demo01Consumer.java" line="1" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e637393d-6c49-40d6-963b-f3ec756ef55e" name="Default Changelist" comment="" />
+    <list default="true" id="e637393d-6c49-40d6-963b-f3ec756ef55e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/12_FunctionalInterface/com/shuaibo/demo07/Function/Demo03Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/12_FunctionalInterface/com/shuaibo/demo07/Function/Demo03Test.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,50 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo04/Supplier/Demo01Supplier.java">
+        <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo01/Stream/Demo02Stream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo06/Predicate/Demo02Predicate_and.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo06/Predicate/Demo03Predicate_or.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo06/Predicate/Demo04Predicate_negate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo06/Predicate/Demo05Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+            <state relative-caret-position="450">
+              <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,10 +31,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo01Function.java">
+        <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo02GetStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+            <state relative-caret-position="412">
+              <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,28 +43,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo02Function_andThen.java">
+        <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo02Stream_forEach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="51" column="86" lean-forward="true" selection-start-line="51" selection-start-column="86" selection-end-line="51" selection-end-column="86" />
+            <state relative-caret-position="198">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo03Stream_filter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo04Stream_map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo05Stream_count.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo06Stream_limit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo07Stream_skip.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo03Test.java">
+        <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo08Stream_concat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-56">
-              <caret line="28" column="71" lean-forward="true" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Function.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            <state relative-caret-position="318">
+              <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -147,17 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo02/CopyFIle/Demo02CopyFile.java" />
-        <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo01/BufferedStream/Demo03BufferedWriter.java" />
-        <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo01/BufferedStream/Demo04BufferReader.java" />
-        <option value="$PROJECT_DIR$/10_IO/c.txt" />
-        <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo01/BufferedStream/Demo04BufferedReader.java" />
-        <option value="$PROJECT_DIR$/10_IO/in.txt" />
-        <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo01/BufferedStream/Demo05Test.java" />
-        <option value="$PROJECT_DIR$/10_IO/我是GBK格式的文本.txt" />
-        <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo03/ReverseStream/Demo01FileReader.java" />
-        <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo03/ReverseStream/Demo02OutputStreamWriter.java" />
-        <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo03/ReverseStream/Demo03InputStreamReader.java" />
         <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo03/ReverseStream/Demo04Test.java" />
         <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo04/ObjectStream/Demo01ObjectOutputStream.java" />
         <option value="$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo04/ObjectStream/Demo02ObjectInputStream.java" />
@@ -198,6 +190,17 @@
         <option value="$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo01Function.java" />
         <option value="$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo02Function_andThen.java" />
         <option value="$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo03Test.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo01/Stream/Demo01List.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo01/Stream/Demo02Stream.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo02GetStream.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo02Stream_forEach.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo04Stream_map.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo05Stream_count.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo06Stream_limit.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo07Stream_skip.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo03Stream_filter.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo07Stream.java" />
+        <option value="$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo08Stream_concat.java" />
       </list>
     </option>
   </component>
@@ -207,9 +210,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="272" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="24" />
+    <option name="y" value="42" />
     <option name="width" value="1280" />
     <option name="height" value="731" />
   </component>
@@ -222,30 +225,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="itheima" type="b2602c69:ProjectViewProjectNode" />
-              <item name="12_FunctionalInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="13_StreamAndMethodReference" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="itheima" type="b2602c69:ProjectViewProjectNode" />
-              <item name="12_FunctionalInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="13_StreamAndMethodReference" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="itheima" type="b2602c69:ProjectViewProjectNode" />
-              <item name="12_FunctionalInterface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shuaibo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="itheima" type="b2602c69:ProjectViewProjectNode" />
-              <item name="12_FunctionalInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="13_StreamAndMethodReference" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shuaibo" type="462c0819:PsiDirectoryNode" />
-              <item name="Function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itheima" type="b2602c69:ProjectViewProjectNode" />
+              <item name="13_StreamAndMethodReference" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shuaibo" type="462c0819:PsiDirectoryNode" />
+              <item name="Stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itheima" type="b2602c69:ProjectViewProjectNode" />
+              <item name="13_StreamAndMethodReference" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shuaibo" type="462c0819:PsiDirectoryNode" />
+              <item name="Stream" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="itheima" type="b2602c69:ProjectViewProjectNode" />
@@ -255,7 +266,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -266,7 +276,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592465919309" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592808483441" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -305,13 +315,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo03Test">
-    <configuration name="Demo01Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo07.Function.Demo01Function" />
-      <module name="12_FunctionalInterface" />
+  <component name="RunManager" selected="Application.Demo08Stream_concat">
+    <configuration name="Demo04Stream_map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo02.Stream.Demo04Stream_map" />
+      <module name="13_StreamAndMethodReference" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shuaibo.demo07.Function.*" />
+          <option name="PATTERN" value="com.shuaibo.demo02.Stream.Demo07Stream_skip" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +329,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Function_andThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo07.Function.Demo02Function_andThen" />
-      <module name="12_FunctionalInterface" />
+    <configuration name="Demo05Stream_count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo02.Stream.Demo05Stream_count" />
+      <module name="13_StreamAndMethodReference" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shuaibo.demo07.Function.*" />
+          <option name="PATTERN" value="com.shuaibo.demo02.Stream.Demo07Stream_skip" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,12 +342,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo07.Function.Demo03Test" />
-      <module name="12_FunctionalInterface" />
+    <configuration name="Demo06Stream_limit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo02.Stream.Demo06Stream_limit" />
+      <module name="13_StreamAndMethodReference" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shuaibo.demo07.Function.*" />
+          <option name="PATTERN" value="com.shuaibo.demo02.Stream.Demo07Stream_skip" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,12 +355,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04Predicate_negate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo06.Predicate.Demo04Predicate_negate" />
-      <module name="12_FunctionalInterface" />
+    <configuration name="Demo07Stream_skip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo02.Stream.Demo07Stream_skip" />
+      <module name="13_StreamAndMethodReference" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shuaibo.demo06.Predicate.*" />
+          <option name="PATTERN" value="com.shuaibo.demo02.Stream.Demo07Stream_skip" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,12 +368,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo06.Predicate.Demo05Test" />
-      <module name="12_FunctionalInterface" />
+    <configuration name="Demo08Stream_concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuaibo.demo02.Stream.Demo08Stream_concat" />
+      <module name="13_StreamAndMethodReference" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shuaibo.demo06.Predicate.*" />
+          <option name="PATTERN" value="com.shuaibo.demo02.Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,11 +383,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo03Test" />
-        <item itemvalue="Application.Demo02Function_andThen" />
-        <item itemvalue="Application.Demo01Function" />
-        <item itemvalue="Application.Demo05Test" />
-        <item itemvalue="Application.Demo04Predicate_negate" />
+        <item itemvalue="Application.Demo08Stream_concat" />
+        <item itemvalue="Application.Demo07Stream_skip" />
+        <item itemvalue="Application.Demo06Stream_limit" />
+        <item itemvalue="Application.Demo05Stream_count" />
+        <item itemvalue="Application.Demo04Stream_map" />
       </list>
     </recent_temporary>
   </component>
@@ -399,13 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588424075228</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Collections">
+      <created>1592466178911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592466178911</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="577" width="1280" height="731" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="731" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18093699" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18578352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -501,90 +519,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo03/ReverseStream/Demo03InputStreamReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="42" column="45" lean-forward="true" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_IO/我是GBK格式的文本.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_IO/我是utf_8格式的文件.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_IO/person.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-338">
-          <caret line="411" column="24" selection-start-line="411" selection-start-column="24" selection-end-line="411" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo04/ObjectStream/Demo02ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo04/ObjectStream/Demo01ObjectOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="28" column="38" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo04/ObjectStream/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_IO/src/com/kangshuibo/demo04/ObjectStream/Demo03Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10_IO/src/com/kangshuaibo/demo01/BufferedStream/Demo01BufferedOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
@@ -817,7 +751,7 @@
     <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo04/Supplier/Demo01Supplier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#404#405#0" expanded="true" />
             <element signature="e#435#436#0" expanded="true" />
@@ -828,14 +762,14 @@
     <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo06/Predicate/Demo03Predicate_or.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
+          <caret line="30" column="5" selection-start-line="20" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo06/Predicate/Demo02Predicate_and.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -848,8 +782,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo06/Predicate/Demo05Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        <state relative-caret-position="864">
+          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -858,8 +792,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo01Function.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+        <state relative-caret-position="504">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -868,14 +802,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo02Function_andThen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="51" column="86" lean-forward="true" selection-start-line="51" selection-start-column="86" selection-end-line="51" selection-end-column="86" />
+        <state relative-caret-position="918">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo03Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo01/Stream/Demo01List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Function.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="450">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
         </state>
       </provider>
@@ -887,10 +838,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12_FunctionalInterface/src/com/shuaibo/demo07/Function/Demo03Test.java">
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo01/Stream/Demo02Stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="28" column="71" lean-forward="true" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+        <state relative-caret-position="450">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo02GetStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo02Stream_forEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo05Stream_count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo06Stream_limit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo04Stream_map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo03Stream_filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo07Stream_skip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_StreamAndMethodReference/src/com/shuaibo/demo02/Stream/Demo08Stream_concat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
         </state>
       </provider>
     </entry>
