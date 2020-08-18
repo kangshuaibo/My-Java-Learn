@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Function对象</title>
+    <script>
+        /*
+            Function:函数（方法）对象
+                1。创建：
+                    1。var fun = new Function(形式参数列表，方法体)；
+                    2.function 方法名称（形式参数列表）{
+                        方法体
+                    }
+                    3.var方法名 = function(形式参数列表){
+                        方法体
+                    }
+                2。方法；
+                3。属性：
+                    length：代表参数的个数
+
+                4。特点：
+                    1。方法定义时，参数的类型不用写，返回值类型也不写
+                    2。方法是一个对象，如果定义名称相同的方法，会覆盖
+                    3。在JS中，方法的调用只与方法的名称有关，和参数列表无关
+                    4。在方法声明中有一个隐藏的内置对象（数组），arguments，封装所有的实际参数
+                5。调用：
+                方法名称（实际参数列表）
+         */
+
+
+
+
+
+        //1.创建方式1
+      /*
+        var fun1 = new Function("a","b","alert(a);");
+        //调用方法
+        fun1(3,4);
+      */
+
+
+        //2。创建方式2
+        /* function fun2(a,b){
+            alert(a+b);
+         }
+         fun2(3,4);
+        */
+
+
+        //3。创建方式3
+       /* var fun3 = function(a,b){
+            alert(a+b);
+        }
+        fun3(3,4);
+        */
+
+
+
+
+
+
+
+
+        //属性 length 表示函数的参数有几个
+      /*
+        alert(fun3.length); //2 两个型参
+      */
+
+
+        //可以传递不一致个数的参数
+        function fun2(a,b){
+            alert(a);
+            alert(b);
+        }
+       // fun2(1,2);  //1 2
+        //fun2(1);    //1 undefined
+        //fun2();     //undefined undefined
+       // fun2(1,2,3);  //1 2
+
+
+        //方法定义时，参数的类型不用写，返回值类型也不写
+      /*  function add(a,b) {
+            return a+b;
+        }
+        var sum = add(1,2);
+        alert(sum); 3
+      */
+
+
+        //求任意个数的和   arguments是一个数组，封装了所有实际参数
+        function add(){
+            var sum = 0;
+            for (var i = 0;i < arguments.length;i++){
+                sum += arguments[i];
+            }
+            return sum;
+        }
+        var sum = add(1,2,3,4);
+        alert(sum);
+
+
+
+
+
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

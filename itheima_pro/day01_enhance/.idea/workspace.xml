@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85b993f7-6038-487b-811f-d32af99d0357" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/AnnoDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/MyAnno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/MyAnno2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/MyAnno3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/Pro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/ReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/annoDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/demo/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/demo/Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/annotation/demo/TestCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/junit/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/junit/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/reflect/ReflectDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/reflect/ReflectDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/reflect/ReflectDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/reflect/ReflectDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/reflect/ReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/shuaibo/test/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pro.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../itheima/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../itheima/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="85b993f7-6038-487b-811f-d32af99d0357" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/cn/shuaibo/annotation/demo/Check.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,7 +44,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/shuaibo/annotation/demo/TestCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="936">
               <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -191,9 +162,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="31" />
-    <option name="y" value="32" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="70" />
+    <option name="y" value="30" />
     <option name="width" value="1280" />
     <option name="height" value="731" />
   </component>
@@ -251,7 +222,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593537218267" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593537338955" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -387,7 +358,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="31" width="1280" height="731" extended-state="6" />
+    <frame x="70" y="30" width="1280" height="731" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -403,7 +374,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3286385" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286385" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286385" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -681,7 +652,7 @@
     <entry file="file://$PROJECT_DIR$/src/cn/shuaibo/annotation/demo/Check.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -700,7 +671,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/shuaibo/annotation/demo/TestCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="936">
           <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />

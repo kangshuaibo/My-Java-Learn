@@ -59,4 +59,43 @@ select name,math,english,math + ifnull(english,0) from student1;
   
   -- 查询年龄等于20 一定是= ,而不是==
   select * from student1 where age = 20;
+  select * from student1 where age <>20;
+  
+  -- 查询年龄大于等于20 小于等于30
+  select * from student1 where age >= 20 && age <=30;
+  select * from student1 where age >= 20 and age <=30;
+  select * from student1 where age between 20 and 30;
+  
+  -- 查询年龄22岁,19岁,25岁的信息
+  select * from student1 where age=22 or age=18 or age =25;
+  select * from student1 where age in (22,18,25);
+  
+  -- 查询英语成绩为null
+  select * from student1 where english =null; -- 不对的.null值不能使用= != 判断
+  select * from student1 where english is null;
+  
+    -- 查询英语成绩不为为null
+ select * from student1 where english is not null;
+ 
+ 
+ 
+ 
+ 
+ -- 3.---------------模糊查询-----------------------
+  -- 查询姓马的有那些? like
+  select * from student1 where name like '马%';
+  
+  -- 查询姓名第二个字是化的人
+  select * from student1 where name like '_化%';
+  
+  -- 查询姓名是三个字的人
+    select * from student1 where name like '___';
+    
+-- 查询姓名中包含 德 的人
+	select * from student1 where name like '%德%';
+  
+  
+  
+  
+      
  

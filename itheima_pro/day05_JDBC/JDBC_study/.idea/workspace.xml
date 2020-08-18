@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ce6afc6-0279-4985-937e-9e73acea3a61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_16__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/libs/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/domain/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/jdbcDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_05jdbc/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/day_06_dataSource_jdbcTemplate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/libs/c3p0-0.9.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/libs/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/libs/druid-1.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/libs/mchange-commons-java-0.2.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/libs/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/libs/spring-beans-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/libs/spring-core-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/libs/spring-jdbc-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/libs/spring-tx-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource/c3p0/C3P0Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource/druid/DruidDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource/druid/DruidDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/domain/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/jdbctemplate/jdbcTemplateDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/jdbctemplate/jdbcTemplateDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/utils/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/day_07_html&amp;css.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/img/login_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/img/login_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/img/regbtn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/img/register_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/src/1_表单标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/src/2_表单标签_表单项标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/src/3_案例1_注册页面(html).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/src/4_css与html结合方式1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/src/5_css与html结合方式2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html&amp;css/src/6_css与html结合方式3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/day_07_html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/html/4_图片标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/banner_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/footer_service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/guonei_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/hot_tel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/hotel_tel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/icon_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/icon_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/icon_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/icon_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/icon_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/icon_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/icon_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/jiangwai_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/jiangxuan_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/jiangxuan_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/jiangxuan_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/jiangxuan_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/jiangxuan_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/jingxuan_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/top_banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/tv01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/tv02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/tv03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/tv04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/image/tv05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/src/1_HelloWorld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/src/2_文本标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/src/3_案例1_公司简介.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/src/4_图片标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/src/5_列表标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/src/6_连接标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/src/7_块标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/src/8_表格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_07_html/src/9_综合案例_网站首页.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day01_enhance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day01_enhance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day02_SQL/dql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../day02_SQL/dql.sql" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_07_html/src/3_案例1_公司简介.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="37" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_07_html/src/7_块标签.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_07_html/src/8_表格.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1638">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_07_html/src/9_综合案例_网站首页.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+              <folding>
+                <element signature="n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#4;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#6;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#7;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#9;n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#tr#10;n#table#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/1_表单标签.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/2_表单标签_表单项标签.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/3_案例1_注册页面(html).html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="52" column="49" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/4_css与html结合方式1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/5_css与html结合方式2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/6_css与html结合方式3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/jdbcDemo2.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo3.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo4.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo5.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo6.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo7.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/domain/Emp.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo8.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/jdbc.properties.kt" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo9.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/util/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo10.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo11.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo12.java" />
+        <option value="$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo1.java" />
+        <option value="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/c3p0-config.xml" />
+        <option value="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource/c3p0/C3P0Demo1.java" />
+        <option value="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource/druid/DruidDemo.java" />
+        <option value="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/utils/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource/druid/DruidDemo2.java" />
+        <option value="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/druid.properties" />
+        <option value="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/jdbctemplate/jdbcTemplateDemo1.java" />
+        <option value="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/domain/Emp.java" />
+        <option value="$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/jdbctemplate/jdbcTemplateDemo2.java" />
+        <option value="$PROJECT_DIR$/day_07_html/src/1_HelloWorld.html" />
+        <option value="$PROJECT_DIR$/day_07_html/src/2_文本标签.html" />
+        <option value="$PROJECT_DIR$/day_07_html/src/图片标签.html" />
+        <option value="$PROJECT_DIR$/day_07_html/src/4_图片标签.html" />
+        <option value="$PROJECT_DIR$/day_07_html/html/4_图片标签.html" />
+        <option value="$PROJECT_DIR$/day_07_html/src/5_列表标签.html" />
+        <option value="$PROJECT_DIR$/day_07_html/src/3_案例1_公司简介.html" />
+        <option value="$PROJECT_DIR$/day_07_html/src/6_连接标签.html" />
+        <option value="$PROJECT_DIR$/day_07_html/src/7_块标签.html" />
+        <option value="$PROJECT_DIR$/day_07_html/src/8_表格.html" />
+        <option value="$PROJECT_DIR$/day_07_html/src/9_综合案例_网站首页.html" />
+        <option value="$PROJECT_DIR$/day_07_html&amp;css/src/1_表单标签.html" />
+        <option value="$PROJECT_DIR$/day_07_html&amp;css/src/2_表单标签_表单项标签.html" />
+        <option value="$PROJECT_DIR$/day_07_html&amp;css/src/3_案例1_注册页面(html).html" />
+        <option value="$PROJECT_DIR$/day_07_html&amp;css/src/4_css与html结合方式1.html" />
+        <option value="$PROJECT_DIR$/day_07_html&amp;css/src/4_css与html结合方式2.html" />
+        <option value="$PROJECT_DIR$/day_07_html&amp;css/src/6_css与html结合方式3.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JDBC_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day_07_html&amp;css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day_07_html&amp;css" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JDBC_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day_07_html&amp;css" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595064476570" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shuaibo.jdbc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day_07_html&amp;css/src" />
+      <recent name="$PROJECT_DIR$/day_07_html&amp;css" />
+      <recent name="$PROJECT_DIR$/day_07_html/html" />
+      <recent name="$PROJECT_DIR$/day_07_html" />
+      <recent name="$PROJECT_DIR$/day_07_html/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.jdbcTemplateDemo2.test7">
+    <configuration name="jdbcTemplateDemo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day_06_dataSource_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shuaibo.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.shuaibo.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="cn.shuaibo.jdbctemplate.jdbcTemplateDemo2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdbcTemplateDemo2.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day_06_dataSource_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shuaibo.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.shuaibo.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="cn.shuaibo.jdbctemplate.jdbcTemplateDemo2" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdbcTemplateDemo2.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day_06_dataSource_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shuaibo.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.shuaibo.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="cn.shuaibo.jdbctemplate.jdbcTemplateDemo2" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdbcTemplateDemo2.test6_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day_06_dataSource_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shuaibo.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.shuaibo.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="cn.shuaibo.jdbctemplate.jdbcTemplateDemo2" />
+      <option name="METHOD_NAME" value="test6_2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdbcTemplateDemo2.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day_06_dataSource_jdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.shuaibo.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.shuaibo.jdbctemplate" />
+      <option name="MAIN_CLASS_NAME" value="cn.shuaibo.jdbctemplate.jdbcTemplateDemo2" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.jdbcTemplateDemo2.test7" />
+        <item itemvalue="JUnit.jdbcTemplateDemo2" />
+        <item itemvalue="JUnit.jdbcTemplateDemo2.test6_2" />
+        <item itemvalue="JUnit.jdbcTemplateDemo2.test6" />
+        <item itemvalue="JUnit.jdbcTemplateDemo2.test5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ce6afc6-0279-4985-937e-9e73acea3a61" name="Default Changelist" comment="" />
+      <created>1594270234986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594270234986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="jdbcTemplateDemo2_test3 - 2020.07.14 at 15h 28m 43s.xml">
+      <configuration name="jdbcTemplateDemo2.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="jdbcTemplateDemo2_test4 - 2020.07.14 at 15h 29m 12s.xml">
+      <configuration name="jdbcTemplateDemo2.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="jdbcTemplateDemo2_test4 - 2020.07.14 at 15h 29m 40s.xml">
+      <configuration name="jdbcTemplateDemo2.test4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="jdbcTemplateDemo2_test5 - 2020.07.14 at 15h 37m 04s.xml">
+      <configuration name="jdbcTemplateDemo2.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="jdbcTemplateDemo2_test5 - 2020.07.14 at 15h 37m 20s.xml">
+      <configuration name="jdbcTemplateDemo2.test5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="jdbcTemplateDemo2_test6 - 2020.07.15 at 00h 30m 40s.xml">
+      <configuration name="jdbcTemplateDemo2.test6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="jdbcTemplateDemo2_test6_2 - 2020.07.15 at 00h 33m 45s.xml">
+      <configuration name="jdbcTemplateDemo2.test6_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="jdbcTemplateDemo2_test6_2 - 2020.07.15 at 00h 36m 51s.xml">
+      <configuration name="jdbcTemplateDemo2.test6_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="jdbcTemplateDemo2 - 2020.07.15 at 00h 39m 47s.xml">
+      <configuration name="jdbcTemplateDemo2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="jdbcTemplateDemo2_test7 - 2020.07.15 at 00h 39m 59s.xml">
+      <configuration name="jdbcTemplateDemo2.test7" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="730" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29725364" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906102" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3275862" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Module Dependencies" order="8" weight="0.32956383" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/day_05jdbc/libs/mysql-connector-java-8.0.16.jar!/META-INF/services/java.sql.Driver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/jdbcDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="57" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/day_05jdbc/libs/mysql-connector-java-8.0.16.jar!/com/mysql/cj/jdbc/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/util/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="57" selection-start-line="57" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="45" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="146" column="33" selection-start-line="146" selection-start-column="33" selection-end-line="146" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource.java" />
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource/c3p0/C3P0Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource/druid/DruidDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/datasource/druid/DruidDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/utils/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1970#1971#0" expanded="true" />
+            <element signature="e#1995#1996#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/druid.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/jdbctemplate/jdbcTemplateDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_05jdbc/src/com/shuaibo/domain/Emp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="97" selection-end-column="5" />
+          <folding>
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/domain/Emp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_06_dataSource_jdbcTemplate/src/cn/shuaibo/jdbctemplate/jdbcTemplateDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/src/1_HelloWorld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/src/2_文本标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="60" column="67" selection-start-line="60" selection-start-column="67" selection-end-line="60" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/html/4_图片标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/src/5_列表标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/src/4_图片标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/src/6_连接标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/src/3_案例1_公司简介.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/src/7_块标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/src/8_表格.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html/src/9_综合案例_网站首页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding>
+            <element signature="n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#4;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#6;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#7;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#9;n#table#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#tr#10;n#table#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/1_表单标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/2_表单标签_表单项标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/3_案例1_注册页面(html).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="49" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/4_css与html结合方式1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/5_css与html结合方式2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_07_html&amp;css/src/6_css与html结合方式3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

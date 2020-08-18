@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+    <img id = "light" src="img/off.gif" onclick="fun();">   //绑定方式一
+    <img id = "light2" src="img/off.gif">   //绑定方式二
+    <script>
+        //方式一的函数
+        function fun(){
+            alert('我被点了');
+            alert('我又被点了');
+        }
+
+
+        //方式二的函数
+        function fun2() {
+            alert('咋老点我');
+        }
+        //步骤：
+            //1.获取light2对象
+        var light2 = document.getElementById("light2");
+            //2.绑定事件
+        light2.onclick = fun2;
+    </script>
+</body>
+</html>

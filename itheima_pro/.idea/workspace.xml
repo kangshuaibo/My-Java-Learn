@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="800fc05a-2b3f-4850-b299-1768ac13f103" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/.idea/libraries/c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/.idea/libraries/druid_1_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/.idea/libraries/mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/.idea/libraries/mysql_connector_java_8_0_16__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/libs/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/domain/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JDBCDemo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/JdbcDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/jdbc/jdbcDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/com/shuaibo/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05_JDBC/JDBC_study/day_05jdbc/src/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01_enhance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day01_enhance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02_SQL/dql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/day02_SQL/dql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/day01_基础加强笔记.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ewLxJhX1vF4yjwLCqRrFrAo1U3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595227097401" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day09_javascript高级" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day09_javascript高级" />
+      <recent name="$PROJECT_DIR$/day09_javascript高级/img" />
+      <recent name="$PROJECT_DIR$/day08_javascrept基础" />
+      <recent name="$PROJECT_DIR$/day07_html&amp;css/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day09_javascript高级" />
+      <recent name="$PROJECT_DIR$/day08_javascrept基础" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="800fc05a-2b3f-4850-b299-1768ac13f103" name="Default Changelist" comment="" />
+      <created>1595226193472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595226193472</updated>
+      <workItem from="1595227961158" duration="41712000" />
+      <workItem from="1596443117358" duration="9056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="142" y="23" key="#Project_Structure" timestamp="1595583102337">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="142" y="23" key="#Project_Structure/0.23.1280.730/0.-922.1680.922@0.23.1280.730" timestamp="1595583102337" />
+    <state x="376" y="195" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595406273506">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="376" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.730/0.-922.1680.922@0.23.1280.730" timestamp="1595406273506" />
+    <state x="446" y="102" key="RollbackChangesDialog" timestamp="1596010224003">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="446" y="102" key="RollbackChangesDialog/0.23.1280.730/0.-922.1680.922@0.23.1280.730" timestamp="1596010224003" />
+    <state x="16" y="23" key="new project wizard" timestamp="1595582592864">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="16" y="23" key="new project wizard/0.23.1280.730/0.-922.1680.922@0.23.1280.730" timestamp="1595582592863" />
+  </component>
+</project>

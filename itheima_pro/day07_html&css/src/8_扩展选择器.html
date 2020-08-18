@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>扩展选择器</title>
+    <style>
+        /*子选择器div 下的p*/
+        div p{
+            color: red;
+        }
+        /*父选择器 p的父类div*/
+        div > p{
+            border: 1px solid;
+        }
+        /*属性选择器*/
+        input[type="text"]{
+            border: 5px solid;
+        }
+        /*伪类选择器*/
+        a:link{
+            color: pink;
+        }
+        a:hover{
+            color: green;
+        }
+        a:active{
+            color: yellow;
+        }
+        a:visited{
+            color: red;
+        }
+
+    </style>
+</head>
+<body>
+
+<div>
+    <p>
+        我叼你妈的
+    </p>
+</div>
+<p>
+    我是程序员
+</p>
+
+<div>没有p标签 不会被父选择器选中</div>
+
+<input type="text">
+<input type="password"><br>
+
+<a href="#">网站主页</a>
+
+</body>
+</html>

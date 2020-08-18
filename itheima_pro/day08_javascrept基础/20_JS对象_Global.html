@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Global对象</title>
+    <script>
+        /*
+            Global
+                1.特点：全局对象，这个Global中封装的方法不需要对象就可以直接调用。   方法名();
+                2.方法：
+                    encodeURL() url编码
+                    decodeURL() url解码
+
+                    encodeURLComponent()    url编码
+                    decodeURLComponent()    url解码
+
+                    parseInt():将字符串转为数字
+                        逐一判断每一个字符是否是数字，直到不是数字为止，将前边数字部分转为number
+
+                    isNaN():判断一个值是否是NaN
+                        NaN六亲不认，连自己都不认识。NaN参与的==比较全部为false
+
+                    eval():将JavaScript字符串，作为脚本代码来执行
+
+               3.URL编码
+         */
+        //第一组
+        var str = "小米手机";
+        var encode = encodeURI(str);
+        document.write(encode + "<br>");    //%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA
+
+        var s = decodeURI(encode);
+        document.write(s + "<br>"); //小米手机
+
+        //第二组 编码的更多 网址也编码了
+        var str1 = "http://www.baidu.com?wd = 小米手机";
+        var encode1 = encodeURIComponent(str1);
+        document.write(encode1 + "<br>");    //%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA
+
+        var s1 = decodeURIComponent(encode1);
+        document.write(s1 + "<br>"); //小米手机
+
+
+
+        //将字符串转为数字
+        var str = "234abc";
+        var number = parseInt(str);
+        alert(number + 1);  //235
+
+        //将字符串转为数字
+        var str = "a234abc";
+        var number = parseInt(str);
+        alert(number + 1);  //NaN
+
+        //判断NaN
+        var a = NaN;
+        document.write(a==NaN); //false 连自己都不认
+        document.write(isNaN(a));   //true
+
+        //执行字符串脚本
+        var jscode = "alert(123)";
+        alert(jscode);
+        eval(jscode);//将字符串解析为JS代码 执行结果为123
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
